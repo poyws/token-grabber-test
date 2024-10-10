@@ -1,2 +1,1 @@
-# token-grabber-test
-A token grabber test for discord
+this code is for testing only, there may be errors.
